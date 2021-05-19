@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-    fmt.Println("Welcom to Go-Jumpstart")
+    fmt.Println("Welcome to Go-Jumpstart")
     // c := add(5, 6)
     // fmt.Print(c)
     // z := Boolean()
@@ -14,5 +14,15 @@ func main() {
     // loop2()
     // loop3()
     // loop4()
-    loop5()
+    // loop5()
+    // oddeven()
+    // days()
+    // whatday(9)
+    // arr1()
+    // arr2()
+    // mtrx()
+    // imtrx(4)
+    // slice1()
+    // slice2()
+    slice3()
 }
