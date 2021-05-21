@@ -24,5 +24,11 @@ func main() {
     // imtrx(4)
     // slice1()
     // slice2()
-    slice3()
+    // slice3()
+    // pointer1()
+    // pointer2()
+    // variadic()
+    // recursion(5)
+    // recursionchallenge(5)
+    sortdemo()
 }
