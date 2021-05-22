@@ -30,5 +30,9 @@ func main() {
     // variadic()
     // recursion(5)
     // recursionchallenge(5)
-    sortdemo()
+    // sortdemo()
+    // structdemo()
+    // advslice()
+    // readfiledemo()
+    writefiledemo()
 }

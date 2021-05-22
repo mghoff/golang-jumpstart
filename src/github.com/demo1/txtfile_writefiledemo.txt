@@ -1,0 +1,3 @@
+This is a text string.
+It is to be written to file.
+This is an new line added to original file using write2().
