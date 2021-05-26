@@ -34,5 +34,10 @@ func main() {
     // structdemo()
     // advslice()
     // readfiledemo()
-    writefiledemo()
+    // writefiledemo()
+    // mapdemo()
+    // methodsdemo()
+    // interfacedemo()
+    // goroutinedemo(9)
+    channeldemo()
 }
